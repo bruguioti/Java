@@ -1,15 +1,4 @@
 
-## Diagrama UML
-
-![Diagrama UML](Diagrama sem nome.drawio.png)
-
-Aqui está uma representação visual da estrutura de classes e interfaces do projeto do iPhone.
-
-
-
-
-
-
 
 # 🚀  Construindo o Projeto do iPhone - Desafio DIO
 
