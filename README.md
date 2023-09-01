@@ -4,7 +4,7 @@
 
 Ao embarcar na jornada de construir o projeto do iPhone, aprendi uma série de conceitos e habilidades cruciais para o desenvolvimento de software. Este projeto me proporcionou uma experiência prática valiosa em várias áreas:
 
-1. **Modelagem UML:** Aprendi como utilizar a linguagem de modelagem UML para representar .visualmente as classes, interfaces e relacionamentos entre os componentes do sistema. Isso me permitiu planejar e comunicar eficazmente a estrutura do projeto antes de começar a codificar.
+1. **Modelagem UML:** Aprendi como utilizar a linguagem de modelagem UML para representar visualmente as classes, interfaces e relacionamentos entre os componentes do sistema. Isso me permitiu planejar e comunicar eficazmente a estrutura do projeto antes de começar a codificar.
 
 2. **Organização de Pacotes:** Compreendi a importância de organizar o código em pacotes lógicos para manter a estrutura do projeto limpa e clara. Isso facilitou a localização de classes e a gestão de dependências.
 
